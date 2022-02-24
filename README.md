@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatolongo
-- 👀 I’m interested in all but don't know what focus on;)
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on iOS dev
+- 👀 I’m interested in .NET dev
+- 🌱 I’m currently learning .NET MAUI
+- 💞️ I’m looking to collaborate on .NET dev
 - 📫 How to reach me office@nutrinutrients.com
 
 <!---
